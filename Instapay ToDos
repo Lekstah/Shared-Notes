@@ -1,24 +1,31 @@
 TECHNICAL DEBT
-- PR ni mighty
-  > Proper DSC initializaiton branch
 - FE stuff (i guess may sarili nang section down)
-- DNS hacc
 - DB refactoring stuff (not required but nice to have)
 FRONT END
 - Merging to Stage
   > instapaymw
   > pdaxlimits
 - Data Population
-  > reference sheets
-  > bank creator script
-  > channel updator script
   > seperate custom instructions script
 - More Tech Debt
-  > no authentication
   > enable/disable is still thru postman
 PROD PREP
-- SSM Parameters (list is in channel)
 - Cognito Auth is just reused
 RECON
 - Reports (addtl fields)
 - Bulk Status Correction (confluence)
+
+DONE turnover
+TECHNICAL DEBT
+- PR ni mighty 
+  > Proper DSC initializaiton branch
+- DNS hacc
+FRONT END
+- Data Population
+  > reference sheets
+  > bank creator script
+  > channel updator script
+- More Tech Debt
+  > no authentication
+PROD PREP
+- SSM Parameters (list is in channel)
